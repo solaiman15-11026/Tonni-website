@@ -1,0 +1,79 @@
+
+section{
+    display: flex;
+    margin-top: 50px;
+    
+    
+}
+.half-width{
+width: 50%;
+padding-left: 10%;
+
+}
+.BD{
+    font-size: 55px;
+    background-image: url(./images/shapes/shape-5.png);
+    background-position: left;
+    
+
+}
+
+.half-width img{
+    width: 88%;
+    
+
+}
+
+.BD{
+    
+    border-left: 7px solid ;
+    border-image: linear-gradient(rgb(230, 55, 55),red) ;
+    border-image-slice: 1;
+    padding-left: 10px;
+    
+}
+a{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(139, 19, 129),rgb(175, 21, 21));
+    color: white;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 3%;
+    padding-top: 3%;
+    border-radius: 7px;
+}
+.text{
+    font-size: 22px;
+    color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer{
+    background-color: rgb(3, 0, 12);
+    height: 200px;
+    width: 100%;
+   
+}
+h4{
+    font-family: 'Lobster Two', cursive;
+    
+
+    color: white;
+    text-align: center;
+    padding-top: 40px;
+    font-size: 40px;
+}
