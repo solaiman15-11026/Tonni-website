@@ -53,11 +53,14 @@ h2{
     font-size: 40px;
     font-family: 'Anton', sans-serif;
 }
+h5{
+    font-size: 27px;
+}
 strong{
     color: rgb(87, 13, 87);
 }
 .second-list img , .first-list img , .third-list img{
-    width: 40%;
+    width: 60%;
    
 
 }
@@ -129,13 +132,20 @@ margin-left: 80px;
 
 
 #User-from{
-    background-image: linear-gradient(rgb(55, 163, 182),rgb(51, 51, 228));
-    margin-left: 350px;
-    margin-right: 350px;
+    background-image: linear-gradient(rgb(180, 204, 44),rgb(36, 206, 177));
+    margin-left: 400px;
+    margin-right: 400px;
     font-size: 20px;
+    border-radius: 13px;
+    margin-top: -25px;
+   
+    
+    
 }
 
-
+.alert-1{
+    padding: 7px;
+}
 h3{
         color: white;
         text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
@@ -145,9 +155,21 @@ h3{
 .from-my{
 background-image:linear-gradient(rgb(168, 36, 124),rgb(134, 25, 43)) ;
 padding: 10px;
+border-radius: 4px;
 
 }
-
+button{
+    background-color: rgb(64, 159, 202);
+    padding: 3px 6px;
+}
+.alert img{
+    margin-left:25px ;
+    height: 300px;
+    margin-top: -25px;
+    
+ 
+ width: 100%;
+}
 
 footer{
     background-color: rgb(3, 0, 12);
